@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-27T17:39:27.361Z",
+  "updatedAt": "2026-11-27T17:39:53.193Z",
   "problems": [
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0026-remove-duplicates-from-sorted-array.cpp",
+          "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp",
+          "sha": "84136f39cf626213a9f6ac91dcef4cfe1306a8ed",
+          "lastSyncedAt": "2026-11-27T17:39:53.193Z"
+        }
+      ]
+    },
     {
       "frontendId": "283",
       "title": "Move Zeroes",
