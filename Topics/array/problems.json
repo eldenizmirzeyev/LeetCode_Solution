@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-27T17:39:12.855Z",
+  "updatedAt": "2026-11-27T17:39:23.327Z",
   "problems": [
+    {
+      "frontendId": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "problemName": "0485-max-consecutive-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+      "folderPath": "0485-max-consecutive-ones/",
+      "readmePath": "0485-max-consecutive-ones/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0485-max-consecutive-ones.cpp",
+          "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.cpp",
+          "sha": "316c883be10d651119dd899c80175616fba144ab",
+          "lastSyncedAt": "2026-11-27T17:39:23.327Z"
+        }
+      ]
+    },
     {
       "frontendId": "905",
       "title": "Sort Array By Parity",
