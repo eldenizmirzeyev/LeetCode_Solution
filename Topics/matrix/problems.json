@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "matrix",
+    "name": "Matrix",
+    "tagId": "61053"
+  },
+  "updatedAt": "2026-11-27T17:38:16.905Z",
+  "problems": [
+    {
+      "frontendId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "slug": "matrix-diagonal-sum",
+      "problemName": "1572-matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-diagonal-sum/",
+      "folderPath": "1572-matrix-diagonal-sum/",
+      "readmePath": "1572-matrix-diagonal-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1572-matrix-diagonal-sum.cpp",
+          "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.cpp",
+          "sha": "cf6be0b285c4754714661a3ed98525d61e7126b6",
+          "lastSyncedAt": "2026-11-27T17:38:16.905Z"
+        }
+      ]
+    }
+  ]
+}
