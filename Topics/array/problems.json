@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-27T17:39:53.193Z",
+  "updatedAt": "2026-11-27T17:39:58.575Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.cpp",
           "sha": "e83d37a42cc17300370b969970dd2d3f3d80e836",
           "lastSyncedAt": "2026-11-27T17:37:25.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "problemName": "1672-richest-customer-wealth",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+      "folderPath": "1672-richest-customer-wealth/",
+      "readmePath": "1672-richest-customer-wealth/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1672-richest-customer-wealth.cpp",
+          "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.cpp",
+          "sha": "d5ac60ad78f19751e6f6629ddf9e0293c45049a9",
+          "lastSyncedAt": "2026-11-27T17:39:58.575Z"
         }
       ]
     },
