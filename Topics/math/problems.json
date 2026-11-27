@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-27T17:38:23.773Z",
+  "updatedAt": "2026-11-27T17:38:30.205Z",
   "problems": [
     {
       "frontendId": "1486",
@@ -44,6 +44,26 @@
           "path": "1812-determine-color-of-a-chessboard-square/1812-determine-color-of-a-chessboard-square.cpp",
           "sha": "edd0371399bd418034d594c5423231051a0a484c",
           "lastSyncedAt": "2026-11-27T17:38:23.773Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2520",
+      "title": "Count the Digits That Divide a Number",
+      "slug": "count-the-digits-that-divide-a-number",
+      "problemName": "2520-count-the-digits-that-divide-a-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/",
+      "folderPath": "2520-count-the-digits-that-divide-a-number/",
+      "readmePath": "2520-count-the-digits-that-divide-a-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2520-count-the-digits-that-divide-a-number.cpp",
+          "path": "2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.cpp",
+          "sha": "27c9cb7bc3d7187b709c076e7cfb7e3e8e5977a5",
+          "lastSyncedAt": "2026-11-27T17:38:30.205Z"
         }
       ]
     }
