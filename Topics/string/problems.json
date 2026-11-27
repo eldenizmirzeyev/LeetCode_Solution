@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-11-27T17:37:15.838Z",
+  "problems": [
+    {
+      "frontendId": "771",
+      "title": "Jewels and Stones",
+      "slug": "jewels-and-stones",
+      "problemName": "0771-jewels-and-stones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+      "folderPath": "0771-jewels-and-stones/",
+      "readmePath": "0771-jewels-and-stones/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0771-jewels-and-stones.cpp",
+          "path": "0771-jewels-and-stones/0771-jewels-and-stones.cpp",
+          "sha": "3317255746371ad8f1b48a0dcb0e5b833fad7de0",
+          "lastSyncedAt": "2026-11-27T17:37:15.838Z"
+        }
+      ]
+    }
+  ]
+}
