@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-27T17:37:32.275Z",
+  "updatedAt": "2026-11-27T17:37:40.687Z",
   "problems": [
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1929-concatenation-of-array.cpp",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.cpp",
+          "sha": "cb10852c37d2a737eb319e10ad48b329cc0ac876",
+          "lastSyncedAt": "2026-11-27T17:37:40.687Z"
+        }
+      ]
+    },
     {
       "frontendId": "2011",
       "title": "Final Value of Variable After Performing Operations",
