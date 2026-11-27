@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-27T17:37:40.687Z",
+  "updatedAt": "2026-11-27T17:38:52.062Z",
   "problems": [
+    {
+      "frontendId": "1688",
+      "title": "Count of Matches in Tournament",
+      "slug": "count-of-matches-in-tournament",
+      "problemName": "1688-count-of-matches-in-tournament",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-matches-in-tournament/",
+      "folderPath": "1688-count-of-matches-in-tournament/",
+      "readmePath": "1688-count-of-matches-in-tournament/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1688-count-of-matches-in-tournament.cpp",
+          "path": "1688-count-of-matches-in-tournament/1688-count-of-matches-in-tournament.cpp",
+          "sha": "8a6d42159ab9f8f224640d742f440ebd586fade5",
+          "lastSyncedAt": "2026-11-27T17:38:52.062Z"
+        }
+      ]
+    },
     {
       "frontendId": "1929",
       "title": "Concatenation of Array",
