@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-27T17:38:34.359Z",
+  "updatedAt": "2026-11-27T17:38:39.566Z",
   "problems": [
     {
       "frontendId": "1486",
@@ -44,6 +44,26 @@
           "path": "1812-determine-color-of-a-chessboard-square/1812-determine-color-of-a-chessboard-square.cpp",
           "sha": "edd0371399bd418034d594c5423231051a0a484c",
           "lastSyncedAt": "2026-11-27T17:38:23.773Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2469",
+      "title": "Convert the Temperature",
+      "slug": "convert-the-temperature",
+      "problemName": "2469-convert-the-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-the-temperature/",
+      "folderPath": "2469-convert-the-temperature/",
+      "readmePath": "2469-convert-the-temperature/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2469-convert-the-temperature.cpp",
+          "path": "2469-convert-the-temperature/2469-convert-the-temperature.cpp",
+          "sha": "d5e5bf82ff41b246afc3a802d7e74a655c3a8927",
+          "lastSyncedAt": "2026-11-27T17:38:39.566Z"
         }
       ]
     },
