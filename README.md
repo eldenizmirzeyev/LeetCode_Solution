@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 27 | 0 | 0 |
+| 28 | 28 | 0 | 0 |
 
 ## Activity
 
@@ -29,17 +29,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-20 | 1 |
 | 2026-11-21 | 2 |
 | 2026-11-26 | 3 |
-| 2026-11-27 | 2 |
+| 2026-11-27 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 70% |
-| Hash Table | 7 | 26% |
-| Math | 7 | 26% |
-| String | 7 | 26% |
-| Simulation | 4 | 15% |
+| Array | 19 | 68% |
+| String | 8 | 29% |
+| Hash Table | 7 | 25% |
+| Math | 7 | 25% |
+| Simulation | 4 | 14% |
 | Counting | 3 | 11% |
 | Sorting | 3 | 11% |
 | Two Pointers | 3 | 11% |
@@ -59,6 +59,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sorting](Topics/sorting/) | 3 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
