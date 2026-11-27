@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-27T17:38:43.633Z",
+  "updatedAt": "2026-11-27T17:38:59.421Z",
   "problems": [
     {
       "frontendId": "771",
@@ -24,6 +24,26 @@
           "path": "0771-jewels-and-stones/0771-jewels-and-stones.cpp",
           "sha": "3317255746371ad8f1b48a0dcb0e5b833fad7de0",
           "lastSyncedAt": "2026-11-27T17:37:15.838Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1512-number-of-good-pairs.cpp",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
+          "sha": "0b1d55ae88687717c67f938752f48935d4936dbd",
+          "lastSyncedAt": "2026-11-27T17:38:59.421Z"
         }
       ]
     },
