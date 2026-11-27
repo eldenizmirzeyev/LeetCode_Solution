@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-27T17:39:12.855Z",
+  "updatedAt": "2026-11-27T17:39:27.361Z",
   "problems": [
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "0283-move-zeroes/",
+      "readmePath": "0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0283-move-zeroes.cpp",
+          "path": "0283-move-zeroes/0283-move-zeroes.cpp",
+          "sha": "45c9f63f368528bb18dc9d28791fcd48a08c2ad8",
+          "lastSyncedAt": "2026-11-27T17:39:27.361Z"
+        }
+      ]
+    },
     {
       "frontendId": "905",
       "title": "Sort Array By Parity",
