@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-27T17:37:25.014Z",
+  "updatedAt": "2026-11-27T17:37:32.275Z",
   "problems": [
     {
       "frontendId": "1662",
@@ -24,6 +24,26 @@
           "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.cpp",
           "sha": "e83d37a42cc17300370b969970dd2d3f3d80e836",
           "lastSyncedAt": "2026-11-27T17:37:25.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "problemName": "2011-final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "folderPath": "2011-final-value-of-variable-after-performing-operations/",
+      "readmePath": "2011-final-value-of-variable-after-performing-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2011-final-value-of-variable-after-performing-operations.cpp",
+          "path": "2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
+          "sha": "f516436bebdd92383069d2d60dc721ac749ec1a2",
+          "lastSyncedAt": "2026-11-27T17:37:32.275Z"
         }
       ]
     }
