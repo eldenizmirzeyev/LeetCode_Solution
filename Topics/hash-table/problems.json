@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-27T17:38:59.421Z",
+  "updatedAt": "2026-11-27T17:39:33.007Z",
   "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "500cd4e12c2462c0df52eea39b796bb3ece7ce0d",
+          "lastSyncedAt": "2026-11-27T17:39:33.007Z"
+        }
+      ]
+    },
     {
       "frontendId": "771",
       "title": "Jewels and Stones",
