@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-27T17:38:52.062Z",
+  "updatedAt": "2026-11-27T17:40:04.957Z",
   "problems": [
     {
       "frontendId": "1688",
@@ -24,6 +24,26 @@
           "path": "1688-count-of-matches-in-tournament/1688-count-of-matches-in-tournament.cpp",
           "sha": "8a6d42159ab9f8f224640d742f440ebd586fade5",
           "lastSyncedAt": "2026-11-27T17:38:52.062Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1920-build-array-from-permutation.cpp",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
+          "sha": "c959e2d37783ede66b62f9f9f3aad688e04de2b1",
+          "lastSyncedAt": "2026-11-27T17:40:04.957Z"
         }
       ]
     },
