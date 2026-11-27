@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-27T17:38:16.905Z",
+  "updatedAt": "2026-11-27T17:39:58.575Z",
   "problems": [
     {
       "frontendId": "1572",
@@ -24,6 +24,26 @@
           "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.cpp",
           "sha": "cf6be0b285c4754714661a3ed98525d61e7126b6",
           "lastSyncedAt": "2026-11-27T17:38:16.905Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "problemName": "1672-richest-customer-wealth",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+      "folderPath": "1672-richest-customer-wealth/",
+      "readmePath": "1672-richest-customer-wealth/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1672-richest-customer-wealth.cpp",
+          "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.cpp",
+          "sha": "d5ac60ad78f19751e6f6629ddf9e0293c45049a9",
+          "lastSyncedAt": "2026-11-27T17:39:58.575Z"
         }
       ]
     }
