@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math",
+    "tagId": "8"
+  },
+  "updatedAt": "2026-11-27T17:37:47.146Z",
+  "problems": [
+    {
+      "frontendId": "1486",
+      "title": "XOR Operation in an Array",
+      "slug": "xor-operation-in-an-array",
+      "problemName": "1486-xor-operation-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+      "folderPath": "1486-xor-operation-in-an-array/",
+      "readmePath": "1486-xor-operation-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1486-xor-operation-in-an-array.cpp",
+          "path": "1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp",
+          "sha": "056284e464eca175aeb798a98e77c4005afb5082",
+          "lastSyncedAt": "2026-11-27T17:37:47.146Z"
+        }
+      ]
+    }
+  ]
+}
