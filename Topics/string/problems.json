@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-27T17:38:02.913Z",
+  "updatedAt": "2026-11-27T17:38:23.773Z",
   "problems": [
     {
       "frontendId": "771",
@@ -44,6 +44,26 @@
           "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.cpp",
           "sha": "e83d37a42cc17300370b969970dd2d3f3d80e836",
           "lastSyncedAt": "2026-11-27T17:37:25.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1812",
+      "title": "Determine Color of a Chessboard Square",
+      "slug": "determine-color-of-a-chessboard-square",
+      "problemName": "1812-determine-color-of-a-chessboard-square",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-color-of-a-chessboard-square/",
+      "folderPath": "1812-determine-color-of-a-chessboard-square/",
+      "readmePath": "1812-determine-color-of-a-chessboard-square/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1812-determine-color-of-a-chessboard-square.cpp",
+          "path": "1812-determine-color-of-a-chessboard-square/1812-determine-color-of-a-chessboard-square.cpp",
+          "sha": "edd0371399bd418034d594c5423231051a0a484c",
+          "lastSyncedAt": "2026-11-27T17:38:23.773Z"
         }
       ]
     },
