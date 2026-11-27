@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-27T17:38:59.421Z",
+  "updatedAt": "2026-11-27T17:39:08.601Z",
   "problems": [
+    {
+      "frontendId": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "problemName": "1431-kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+      "folderPath": "1431-kids-with-the-greatest-number-of-candies/",
+      "readmePath": "1431-kids-with-the-greatest-number-of-candies/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1431-kids-with-the-greatest-number-of-candies.cpp",
+          "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.cpp",
+          "sha": "21fdcb866df98a531c0a2c58600f024872faa8cd",
+          "lastSyncedAt": "2026-11-27T17:39:08.601Z"
+        }
+      ]
+    },
     {
       "frontendId": "1512",
       "title": "Number of Good Pairs",
