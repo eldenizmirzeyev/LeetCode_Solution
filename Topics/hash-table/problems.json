@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-27T17:39:47.498Z",
+  "updatedAt": "2026-11-28T16:02:49.813Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.cpp",
           "sha": "c165225607a6f2463fcda57060a08509e88cc805",
           "lastSyncedAt": "2026-11-27T17:39:47.498Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "0202-happy-number/",
+      "readmePath": "0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0202-happy-number.cpp",
+          "path": "0202-happy-number/0202-happy-number.cpp",
+          "sha": "ba4512fd1642dd3cb003a26cc0710b2e9f6f8bb0",
+          "lastSyncedAt": "2026-11-28T16:02:49.813Z"
         }
       ]
     },
