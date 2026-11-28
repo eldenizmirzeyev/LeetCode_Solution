@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design",
+    "tagId": "25"
+  },
+  "updatedAt": "2026-11-28T16:40:57.504Z",
+  "problems": [
+    {
+      "frontendId": "1603",
+      "title": "Design Parking System",
+      "slug": "design-parking-system",
+      "problemName": "1603-design-parking-system",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-parking-system/",
+      "folderPath": "1603-design-parking-system/",
+      "readmePath": "1603-design-parking-system/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1603-design-parking-system.cpp",
+          "path": "1603-design-parking-system/1603-design-parking-system.cpp",
+          "sha": "3de9ce0f3ed3ab374773ac325781189c850e1e0d",
+          "lastSyncedAt": "2026-11-28T16:40:57.504Z"
+        }
+      ]
+    }
+  ]
+}
